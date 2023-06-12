@@ -1,0 +1,23 @@
+{
+  "name": "subpub",
+  "version": "1.0.0",
+  "description": "Script based on publish subscribe mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGD467/SubPub.git"
+  },
+  "keywords": [
+    "subscribe",
+    "react"
+  ],
+  "author": "lgd467 tunan467@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LGD467/SubPub/issues"
+  },
+  "homepage": "https://github.com/LGD467/SubPub#readme"
+}
